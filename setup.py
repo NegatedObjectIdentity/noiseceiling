@@ -11,7 +11,7 @@ setup(
     packages=['noiseceiling'],
     install_requires=[
         'numpy',
-        'sklearn',
+        'scikit-learn',
         'pandas'
     ]
 )
